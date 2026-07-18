@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout ${{ matrix.site }}
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: md1god/${{ matrix.site }}
           token: ${{ secrets.SITES_PAT }}
@@ -56,7 +56,7 @@ jobs:
           github-token: ${{ secrets.SITES_PAT }}
           script: |
             await github.rest.actions.createWorkflowDispatch({
-              owner: 'md1god', repo: 'MD-robot',
+              owner: 'md1god', repo: 'MD-automation',
               workflow_id: 'publish.yml',
               ref: 'main'
             });
