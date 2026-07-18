@@ -29,5 +29,5 @@ jobs:
     needs: gate
     if: needs.gate.outputs.allowed == 'true'
     permissions: { contents: write, issues: write }
-    uses: md1god/MD-automation/.github/workflows/reusable-autofix.yml@2345badbc0e24b45bdc310e0bbc8d8aca3cb0331
+    uses: md1god/MD-robot/.github/workflows/reusable-autofix.yml@2345badbc0e24b45bdc310e0bbc8d8aca3cb0331
     with: { build-command: npm run build }
