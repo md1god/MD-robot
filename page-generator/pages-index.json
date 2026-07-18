@@ -1,0 +1,74 @@
+[
+  {
+    "id": "page-0001",
+    "title": "ثقة بلا وسيط",
+    "image": "code-trust.jpg",
+    "audio": "theme-horus.mp3",
+    "date": "2026-07-15T23:18:51.440Z",
+    "file": "pages/page-0001.html"
+  },
+  {
+    "id": "page-0002",
+    "title": "جسر السلاسل",
+    "image": "chains-bridge.jpg",
+    "audio": "theme-tech.mp3",
+    "date": "2026-07-16T01:22:47.009Z",
+    "file": "pages/page-0002.html"
+  },
+  {
+    "id": "page-0003",
+    "title": "عين حورس",
+    "image": "horus-eye.jpg",
+    "audio": "theme-horus.mp3",
+    "date": "2026-07-16T04:48:35.119Z",
+    "file": "pages/page-0003.html"
+  },
+  {
+    "id": "page-0004",
+    "title": "الاحتياطي الكامل",
+    "image": "reserves-vault.jpg",
+    "audio": "theme-calm.mp3",
+    "date": "2026-07-16T07:13:47.862Z",
+    "file": "pages/page-0004.html"
+  },
+  {
+    "id": "page-0005",
+    "title": "ميزان العدالة المالية",
+    "image": "scale-balance.jpg",
+    "audio": "theme-tech.mp3",
+    "date": "2026-07-16T09:54:44.356Z",
+    "file": "pages/page-0005.html"
+  },
+  {
+    "id": "page-0006",
+    "title": "بناء يدوم",
+    "image": "pyramid-build.jpg",
+    "audio": "theme-calm.mp3",
+    "date": "2026-07-16T11:25:34.945Z",
+    "file": "pages/page-0006.html"
+  },
+  {
+    "id": "page-0007",
+    "title": "ثقة بلا وسيط",
+    "image": "code-trust.jpg",
+    "audio": "theme-horus.mp3",
+    "date": "2026-07-16T13:14:40.417Z",
+    "file": "pages/page-0007.html"
+  },
+  {
+    "id": "page-0008",
+    "title": "ميزان العدالة المالية",
+    "image": "scale-balance.jpg",
+    "audio": "theme-tech.mp3",
+    "date": "2026-07-16T15:24:18.226Z",
+    "file": "pages/page-0008.html"
+  },
+  {
+    "id": "page-0009",
+    "title": "عين حورس",
+    "image": "horus-eye.jpg",
+    "audio": "theme-horus.mp3",
+    "date": "2026-07-16T17:01:02.398Z",
+    "file": "pages/page-0009.html"
+  }
+]
